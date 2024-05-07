@@ -18,4 +18,6 @@ Upon graduation, I started working for [Betsol](https://betsol.com). At Betsol, 
 
 I designed and implemented a device discovery and pairing process using [RFC 8236](https://tools.ietf.org/html/rfc8236) for [Dell Migate](https://www.dell.com/en-us/shop/servicesforhome/cp/migrate). I worked with security consultants to prove that MITM and offline attacks are not possible for RFC 8236 and I implemented the approach using .NET framework in a completely async event driven fashion. I also worked with architects to design and implement a message routing framework using reflection that aided in integration with Dell's Support Assist. The message routing framework increased developer productivity and reduced code duplication. 
 
-I worked with architects to architect and design a cloud native backup solution for Rebit 2.0. I also worked with various stakeholders to translate the product vision to user stories and low level design. I'm currently working with the team to implement the cloud native backup solution.
+I worked with architects to architect and design a cloud native backup solution for Rebit 2.0. I also worked with various stakeholders to translate the product vision to user stories and low level design. 
+
+I'm currently working at NVIDIA as a senior software engineer for NVIDIA GPU Cloud.
